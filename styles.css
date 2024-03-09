@@ -10,10 +10,6 @@
    
    
 }
-body{
-    font-family: "Outfit", sans-serif;
-    color: hsl(218, 44%, 22%);
-}
 .container{
     height: 100%;
     display: flex;
@@ -40,12 +36,17 @@ body{
     font-size: 20px;
     text-align: center;
     padding: 20px 0;
+    color: hsl(218, 44%, 22%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
 }
 .card p{
     font-size: 15px;
     text-align: center;
     padding-bottom:20px ;
     color: hsl(220, 15%, 55%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
 }
 .attribution{
     padding: 20px;
